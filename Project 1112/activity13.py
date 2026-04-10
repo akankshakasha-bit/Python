@@ -22,3 +22,4 @@ start = int(input("Enter the starting number: "))
 end   = int(input("Enter the ending number: "))
 
 square_it_out(start, end)
+print("67")
